@@ -43,6 +43,22 @@ entries:
     - title: Support
       url: /mydoc_support.html
       output: web, pdf
+  
+  - title: WizFi360 Open SDK
+    output: web, pdf
+    folderitems:
+
+    - title: Getting Started
+      url: /mydoc_wizfi360_opensdk_gettingstarted.html
+      output: web, pdf
+
+  - title: Weekly
+    output: web, pdf
+    folderitems:
+
+    - title: 2020-03
+      url: /mydoc_weekly_2020_03.html
+      output: web, pdf
 
   - title: Release Notes
     output: web, pdf
