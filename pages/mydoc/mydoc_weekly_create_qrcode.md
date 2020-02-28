@@ -16,7 +16,7 @@ The below contents guide how to create QRCode with URL
 
 This site creates free qrcode with URL, Text, ...
 
-> https://ko.online-qrcode-generator.com/
+> [https://ko.online-qrcode-generator.com/](https://ko.online-qrcode-generator.com/)
 
 ### 2. Select URL menu
 
