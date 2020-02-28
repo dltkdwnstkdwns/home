@@ -56,6 +56,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Create qrcode
+      url: /mydoc_weekly_create_qrcode.html
+      output: web, pdf
+
     - title: 2020-03
       url: /mydoc_weekly_2020_03.html
       output: web, pdf
